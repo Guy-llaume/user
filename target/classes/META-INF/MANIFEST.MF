@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hayet
+Build-Jdk: 10.0.2
+Implementation-Title: auberge.user.pi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: auberge
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/auberge.user.pi
+Created-By: Maven Integration for Eclipse
+
